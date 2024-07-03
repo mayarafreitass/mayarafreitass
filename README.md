@@ -11,7 +11,7 @@
 </div>
 <h2 align="center"> 💻 Linguagens, Frameworks, Ferramentas.</h2>
 <p align="center">
-<img align="center" alt="java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"> <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 
 </p>
 
