@@ -1,7 +1,7 @@
 <h1 align="center">Você também pode me encontrar aqui 👇</h1>
 <div>
   <p align="center">
-    <a target="_blank" href="https://www.instagram.com/mayaracdfreitas">
+    <a target="_blank" href="https://www.instagram.com/maycfreitas">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/mayara-cauny-1224a3286/">
