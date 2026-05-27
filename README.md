@@ -1,11 +1,5 @@
 <div align="center">
-🌸 Olá, eu sou a Mayara!
-  
-  <div align="center">
 
-✦ estudante · analista de dados em formação · sempre criando ✦
-
-</div>
                    
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4537E&center=true&vCenter=true&width=435&lines=Estudando+An%C3%A1lise+de+Dados+%F0%9F%93%8A;Python%2C+SQL%2C+Java%2C+Power+BI;%F0%9F%9A%80" alt="Typing SVG" />
 </div>
